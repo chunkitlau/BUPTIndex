@@ -12,7 +12,7 @@
 
 [BUPTBeamerTemplate](https://github.com/chunkitlau/BUPTBeamerTemplate)
 
-＃＃＃ 推荐信模板
+### 推荐信模板
 
 [BUPTRecommendationLetterTemplate](https://github.com/chunkitlau/BUPTRecommendationLetterTemplate)
 
@@ -22,7 +22,7 @@
 
 [DatastructureNavigationSystem](https://github.com/chunkitlau/DatastructureNavigationSystem)
 
-＃＃＃ 计算机学院大学二年级计算机网络课程设计《DNS中继服务器》（2021春）
+### 计算机学院大学二年级计算机网络课程设计《DNS中继服务器》（2021春）
 
 [dns_relay](https://github.com/chunkitlau/dns_relay)
 
