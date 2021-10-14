@@ -8,7 +8,7 @@
 
 ## Latex 模板
 
-＃＃＃ Beamer 模板
+### Beamer 模板
 
 [BUPTBeamerTemplate](https://github.com/chunkitlau/BUPTBeamerTemplate)
 
