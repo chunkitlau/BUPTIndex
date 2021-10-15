@@ -16,6 +16,10 @@
 
 [BUPTRecommendationLetterTemplate](https://github.com/chunkitlau/BUPTRecommendationLetterTemplate)
 
+### 学位论文模板
+
+[BeijingUniversityOfPostsAndTelecommunicationsMaster-PhdThesisTemplate](https://github.com/chunkitlau/BeijingUniversityOfPostsAndTelecommunicationsMaster-PhdThesisTemplate)
+
 ## 课程作业
 
 ### 计算机学院大学二年级数据结构课程设计《校园导览系统》（2021春）
